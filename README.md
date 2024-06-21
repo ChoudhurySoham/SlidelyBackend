@@ -15,12 +15,4 @@ This is the backend code for the application was created towards the completion 
 
 NOTE: Install Node.js and npm if not already installed. Also install dependencies **express** and **typescript**
 
-Make sure the directory structure is as follows:
-SlidelyBackend/
-├── node_modules/
-├── src/
-│   ├── server.ts
-│   ├── db.json
-├── tsconfig.json
-├── package.json
-└── README.md
+IMPORTANT: Install and initialise node modules using "npm init -y" in the same directory as all the other files
