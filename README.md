@@ -15,4 +15,4 @@ This is the backend code for the application was created towards the completion 
 
 NOTE: Install Node.js and npm if not already installed. Also install dependencies **express** and **typescript**
 
-IMPORTANT: Install and initialise node modules using "npm init -y" in the same directory as all the other files
+IMPORTANT: Install and initialise node modules using "npm i" in the same directory as all the other files
